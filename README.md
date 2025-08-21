@@ -81,9 +81,9 @@ Soy un desarrollador en formación con gran interés en resolver problemas reale
 
 <div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&hide_border=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jordannx&show_icons=true&theme=radical&hide_border=true)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordannx&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
