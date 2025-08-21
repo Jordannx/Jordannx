@@ -5,8 +5,8 @@
 🎓 **Estudiante de Ingeniería de Sistemas**  
 💡 Apasionado por la tecnología y la innovación
 
-[![GitHub followers](https://img.shields.io/github/followers/tuusuario?label=Seguidores&style=social)](https://github.com/tuusuario)
-[![GitHub stars](https://img.shields.io/github/stars/tuusuario?label=Stars&style=social)](https://github.com/tuusuario)
+[![GitHub followers](https://img.shields.io/github/followers/Jordannx?label=Seguidores&style=social)](https://github.com/tuusuario)
+[![GitHub stars](https://img.shields.io/github/stars/Jordannx?label=Stars&style=social)](https://github.com/tuusuario)
 
 </div>
 
