@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hola, soy Jordan
 
+🎓 Estudiante de **Ingeniería de Sistemas**  
+💻 Interesado en: *Visión por Computador, Desarrollo Web y Android*  
+🚀 Co-fundador de **Nova Studio**
 
-**Jordannx/Jordannx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚧 Proyectos destacados
+- 🏍️ **Detección de motociclistas (YOLOv8)**  
+  <sub>Sistema para detectar invasiones a veredas y ciclovías.</sub>  
+  [🔗 Repositorio](https://github.com/tuusuario/tu-repo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📊 **Dashboard de Inventario (Nova Studio)**  
+  <sub>Panel en PHP/MySQL para gestión de productos y estadísticas.</sub>  
+  [🔗 Repositorio](https://github.com/tuusuario/otro-repo)
 
+---
+
+## 🛠️ Habilidades
+```text
+Python   • YOLOv8 • OpenCV
+PHP      • MySQL  • Tailwind
+Kotlin   • Android Studio
+HTML     • CSS    • Git/GitHub
