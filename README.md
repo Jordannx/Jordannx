@@ -5,8 +5,8 @@
 🎓 **Estudiante de Ingeniería de Sistemas**  
 💡 Apasionado por la tecnología y la innovación
 
-[![GitHub followers](https://img.shields.io/github/followers/Jordannx?label=Seguidores&style=social)](https://github.com/tuusuario)
-[![GitHub stars](https://img.shields.io/github/stars/Jordannx?label=Stars&style=social)](https://github.com/tuusuario)
+[![GitHub followers](https://img.shields.io/github/followers/Jordannx?label=Seguidores&style=social)](https://github.com/Jordannx)
+[![GitHub stars](https://img.shields.io/github/stars/Jordannx?label=Stars&style=social)](https://github.com/Jordannx)
 
 </div>
 
@@ -35,23 +35,9 @@ Soy un desarrollador en formación con gran interés en resolver problemas reale
 - ✅ Generación automática de reportes
 - ✅ Integración con sistemas de videovigilancia
 
-[🔗 **Ver Repositorio**](https://github.com/tuusuario/motorcycle-detection) | [📹 **Demo**](https://youtube.com/watch?v=demo)
 
 ---
 
-### 📊 **Dashboard de Inventario - Nova Studio**
-> **Tecnología:** PHP + MySQL + Tailwind CSS  
-> **Descripción:** Sistema completo de gestión empresarial con panel administrativo, control de inventarios y análisis estadístico avanzado.
-
-**Funcionalidades:**
-- 📈 Dashboard con métricas en tiempo real
-- 🔍 Sistema de búsqueda y filtros avanzados
-- 📱 Diseño responsive y optimizado
-- 📊 Reportes exportables (PDF/Excel)
-
-[🔗 **Ver Repositorio**](https://github.com/tuusuario/inventory-dashboard) | [🌐 **Demo Live**](https://demo.novastudio.com)
-
----
 
 ## 🛠️ Stack Tecnológico
 
@@ -77,27 +63,14 @@ Soy un desarrollador en formación con gran interés en resolver problemas reale
 
 ---
 
-## 📈 Estadísticas GitHub
-
-<div align="center">
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jordannx&show_icons=true&theme=radical&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordannx&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Conecta conmigo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tuportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mendoza-fernandez-jordan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jordanmf52@gmail.com)
 
-**💼 Nova Studio:** [🌐 Website](https://novastudio.com) | [📧 Contacto](mailto:info@novastudio.com)
+**💼 Nova Studio:** [🌐 Website](https://novastud.com) | [📧 Contacto](mailto:soporte@novastudio.com)
 
 </div>
 
