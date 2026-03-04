@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador en formación con gran interés en resolver problemas reales a través de la tecnología. Me especializo en **Visión por Computador**, **Desarrollo Web** y **Android**, siempre buscando aprender nuevas tecnologías y enfrentar desafíos innovadores.
+Soy un desarrollador en formación con gran interés en resolver problemas reales a través de la tecnología. Me especializo en **Aprendizaje con Inteligencia Artificial** y **Desarrollo Web**, siempre buscando aprender nuevas tecnologías y enfrentar desafíos innovadores.
 
 - 🔬 **Enfoque actual:** Computer Vision y Machine Learning
 - 🌱 **Aprendiendo:** Arquitecturas de Deep Learning avanzadas
@@ -70,7 +70,7 @@ Soy un desarrollador en formación con gran interés en resolver problemas reale
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mendoza-fernandez-jordan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jordanmf52@gmail.com)
 
-**💼 Nova Studio:** [🌐 Website](https://novastud.com) | [📧 Contacto](mailto:soporte@novastudio.com)
+**💼 Nova Studio:** [🌐 Website](https://novastud.com) | [📧 Contacto](mailto:soporte@novastud.com)
 
 </div>
 
